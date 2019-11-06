@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="qys_filedemo:war">
+    <output-path>$PROJECT_DIR$/../qys_filedemo/target</output-path>
+    <root id="archive" name="qys_filedemo.war">
+      <element id="artifact" artifact-name="qys_filedemo:war exploded" />
+    </root>
+  </artifact>
+</component>
